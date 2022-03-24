@@ -19,7 +19,10 @@ print("""
 |   ,/                 |  ,     .-./  \   \  /  '--'        \   \  /  |   ,.'       ;   |  .'       
 '---'                   `--`---'       `----'                `----'   '---'         `---'           
                                                                                                     
-        """)
+                                    Telegram : https://t.me/kickflap
+                                    website : https://hrackedz.com  
+                                      
+                                       """)
 
 try:
     from googlesearch import search
