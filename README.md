@@ -9,7 +9,5 @@ Easy to use :
 
 Screenshot :
 
-![ScreenShot](https://github.com/hrackedz/Google-Link-Grabber/blob/main/google.PNG?raw=true)
-
 
 ENJOY!
