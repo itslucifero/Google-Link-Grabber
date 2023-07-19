@@ -4,7 +4,7 @@ import pickle
 print("""
         
 *      
-                                    Telegram : https://t.me/mrhouse998
+                                    Telegram : https://t.me/itslucifero
                                    
                                       
                                        """)
